@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "code": "p001", "name": "Product A", "price": 100 },
+    { "code": "p002", "name": "Product B", "price": 200 },
+    { "code": "p003", "name": "Product C", "price": 150 },
+    { "code": "p004", "name": "Product D", "price": 250 }
+  ],
+  "prefill": [
+    { "item": "Product A", "ppu": 100, "qty": 2, "discount": 10 },
+    { "item": "Product B", "ppu": 200, "qty": 1, "discount": 0 }
+  ]
+}
